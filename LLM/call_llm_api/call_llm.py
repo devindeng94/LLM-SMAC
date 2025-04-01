@@ -5,13 +5,9 @@ import pdb
 from logging.handlers import RotatingFileHandler
 from openai import OpenAI
 from configs.llm_api_config import LLMAPIConfig
-"""
-调用LLM api的类
-测试代码在最下面
 
-"""
 def setup_logger(name, log_file, level=logging.INFO):
-    """设置一个指定名称的日志记录器"""
+
     formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
     handler = RotatingFileHandler(log_file, maxBytes=10 * 1024 * 1024, backupCount=5)
     handler.setFormatter(formatter)
@@ -22,7 +18,7 @@ def setup_logger(name, log_file, level=logging.INFO):
 
     return logger
 
-# 设置主日志记录器
+
 model_info = LLMAPIConfig.get_model_dict()
 main_logger = setup_logger('main_logger', '{}#{}#{}#{}.log'.format(model_info['planner'], model_info['coder'], model_info['summarizer'], config.map_name), level=logging.DEBUG)
 

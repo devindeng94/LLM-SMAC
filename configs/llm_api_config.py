@@ -1,17 +1,15 @@
-# llm_api_config.py
-
 class LLMModelConfig:
     def __init__(self, api_key, base_url):
         self.api_key = api_key
         self.base_url = base_url
 
     def __repr__(self):
-        # 隐藏完整的 API 密钥，只显示前 6 个字符
+
         masked_api_key = self.api_key[:6] + "*" * (len(self.api_key) - 6)
         return f"LLMModelConfig(api_key='{masked_api_key}', base_url='{self.base_url}')"
 
 class LLMAPIConfig:
-    # LLM 配置
+
     MODELS = {
         "deepseek-chat": LLMModelConfig(
             api_key="Your API key here.",
@@ -51,6 +49,9 @@ class LLMAPIConfig:
     def get_task_model(cls, task):
         model_name = cls.TASK_MODELS.get(task)
         return cls.get_model_config(model_name)
+    @classmethod
+    def get_model_dict(cls):
+        return cls.TASK_MODELS
 
 if __name__ == '__main__':
     config = LLMAPIConfig()

@@ -1,0 +1,46 @@
+{
+  "Type": "Ground Unit",
+  "Description": "The first and strongest unit of direct army attacks. A strong brute-force unit and excellent mineral dump as well. In terms of health and damage this unit is second to none of the basic units. However, in the early game it is kited extremely easily by any ranged unit; so Stalkers are recommended for chasing pesky units while waiting for the Twilight Council to finish researching Charge, which brings the Zealot's health and damage to bear as a real threat.",
+  "Built From": "Gateway",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 100,
+    "vespene": 0,
+    "game_time": 27.0,
+    "supply": 2
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground",
+    "Damage": "8 (+1) (x2)",
+    "DPS": "18.6 (+2.33)",
+    "Cooldown": "0.86",
+    "Bonus": "Not found",
+    "Bonus DPS": "Not found",
+    "Range": "0.1"
+  },
+  "Unit stats": {
+    "Defense": "100 50 1 (+1)",
+    "Attributes": "Light, Biological",
+    "Sight": "9",
+    "Speed": "3.154.725 (+5.67 with Charge)",
+    "Cargo size": "2"
+  },
+  "Strong against": [
+    "Marauder",
+    "Immortal",
+    "Zergling"
+  ],
+  "Weak against": [
+    "Hellion",
+    "Colossus",
+    "Roach"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "Vs. Protoss": "Zealots are effective meat shields for a Protoss army, particularly against Immortals and Stalkers as they can tank 9 Immortal hits and 17 Stalker hits. However, Colossi are very strong against large numbers of Zealots. Depending upon the terrain and unit positioning, Stalkers can effectively kite Zealots without Charge. Against Zealots with Charge, Stalkers can only kite if they have Blink.",
+    "Vs. Terran": "Zealots are a crucial unit against Terran. They are still capable units, but their importance is mainly because their health efficiency lets them effectively support more expensive damage-dealing units such as the Immortal. However, they get a lot better from upgrades. With Charge they become a more threatening unit in their own right and get the capability for worker harassment, while with 100 health they benefit a lot from armor upgrades at the Forge. The Zealot is effective against bio (ie the Marine and Marauder units). One of the tensions in this matchup is between the players' upgrades. Stimpack and Concussive Shells make it easier for the Terran to kite. However, by upgrading Charge, Zealots can close the distance to the ranged-only Terran units much more quickly, minimizing the damage they take before engaging them and forcing the Terran player to position much more carefully. Because Charge is such a major speed increase, the Zealots can also be used to simply outrun the enemy and deny them from retreating. They can simply surround the entire Terran army, rendering it immobile and very susceptible to High Templar or Colossus attacks. However, Charge no longer adds extra damage, making it a slightly lower priority compared to damage-increasing options than it was in past patches. Late game transitions into gas-heavy units such as Colossi and High Templar rely heavily on large numbers of Zealots to buy time for the more expensive units to deal large amounts of splash damage. At this stage their cheapness and mobility with Charge also makes them great for harassing expansions. Other units that work well with Zealots are the Warp Prism, dropping and/or warping in Zealots to serve a very good counterattack option, harassing and deterring Terran pushes; while the Sentry's Guardian Shield can be effective at further increasing the unit's durability (although the cheaper armor upgrades should come first).",
+    "Vs. Zerg": "Against Zerg, Adepts have surpassed Zealots at applying early pressure as shade provides an excellent escape or way to scout without being placed in harm's way. The effectiveness of Zealots against Zerglings often comes down to positioning: Zealots are very effective when they engage Zerglings with even surface areas.(like when Zealots and lings are at even numbers, or the engagement occurs at chokes or against walls) However, if Zerglings are able to surround a small group of Zealots, the Zealots will die very quickly. This dynamic is extremely important in the PvZ early game especially in scenarios where the Zerg opens with a build such as a 12 pool. Once enough Roaches have been built, Zealots become ineffective without some combination of support units such as Stalkers, Sentries, or Immortals. The Charge upgrade is very useful, especially against ranged Zerg units such as Hydralisks. Banelings can be very effective against massed Zealots, especially if groups Charge into them. However, a trick to minimize losses is to split the Zealots effectively reducing the damage dealt by Banes. Zealots (with Charge) together with Archons and Immortals form the army composition of Immortal Archon Chargelot (IAC). This composition supported by High Templar with Storm is an excellent composition that scales into the lategame. Charge Zealots (Chargelots) are much more effective harassment units in the PvZ matchup than they are as front line combat units. The boost to their base movement speed allows them to roam the map and wipe out drone lines in seconds, paired with a warp prism they can be a thorn for the Zerg player and have the potential to bleed them out over the course of the game if not dealt with correctly. The +1 weapons upgrade is an important upgrade when fighting Zerglings or Hydralisks. This allows a Zealot to kill a Zergling (35 HP) in two attacks ((8+1)x2 x2=36) instead of three and a Hydralisk in five attacks instead of six. This reduces a lot of overkill, making an engagement with Zerglings and Hydralisks much more effective."
+  }
+}

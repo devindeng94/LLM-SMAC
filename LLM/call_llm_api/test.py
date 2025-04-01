@@ -1,10 +1,7 @@
 # Please install OpenAI SDK first: `pip3 install openai`
 
 from openai import OpenAI
-"""
-用于测试api key和 api base是否可行
 
-"""
 
 client = OpenAI(api_key="Your API key here.",
                 base_url="Base URL here.")

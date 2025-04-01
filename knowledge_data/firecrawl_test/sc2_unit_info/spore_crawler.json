@@ -1,0 +1,33 @@
+{
+  "Type": "Not found",
+  "Description": "The Spore Crawler is a Zerg base anti-air static defense structure, which deals 15 points of damage to air units and has the ability to detect cloaked units. Although similar to the Spore Colony, the Spore Crawler has the distinct ability to Uproot itself and Root in a new location, giving it very good mobility and a more flexible use. Take note that Spore Crawlers lose their detection ability while uprooted. Spore Crawlers are used in ZvZ to protect against a lot of Mutalisks. In HotS the Spore Crawler was buffed to 30 damage vs biological units. This was reverted for LotV to 15, because Viper have Parasitic Bomb to deal with large numbers of Mutalisks. Spore Crawlers have excellent endurance and deal more damage per second than Photon Cannons, but not as much as Missile Turrets. It depends how many AA structures or units are on the field. Queens are typically used to fill gaps in early game air defense, and Hydralisks remain more versatile on the move. Spore Crawlers, like all air defenses, are most effective when tightly packed. This protects them from being singled out by clusters of air units.",
+  "Built From": "Not found",
+  "Requirements": "Spawning Pool",
+  "Cost": "Cost information not found or in unexpected format",
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground/Air",
+    "Damage": "20 (+10 vs Biological)",
+    "DPS": "32.53 (+16.26 vs Biological)",
+    "Cooldown": "0.61",
+    "Bonus": "Not found",
+    "Bonus DPS": "Not found",
+    "Range": "7"
+  },
+  "Unit stats": {
+    "Defense": "300 1 Armored, Structure, Biological",
+    "Attributes": "Armored, Biological, Structure",
+    "Sight": "11",
+    "Speed": "1.4",
+    "Cargo size": "Not found"
+  },
+  "Strong against": [],
+  "Weak against": [],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "Vs. Protoss": "Spore Crawlers are often built against Protoss to defend against early Stargate play. They complement Queens quite well against Void Rays and Phoenixes, since a Queen can stay near the Spore Crawler and use the range of its antiair attack to pick away at the Protoss air units, while fending off any that close on the Queen to attack it. As buildings, they are immune to the Phoenix's Graviton Beam ability, and can provide cover for Drones and Queens nearby against Phoenixes. Later in the game, they are used as static detection against Dark Templar; players will often build one at each base against an opponent known to have a Dark Shrine.",
+    "Vs. Terran": "Spore Crawlers are sometimes made to defend against early Widow Mine or Banshee harassment if the Zerg player does not yet have access to Overseers for detection. In the late game they are often used to discourage Medivac drops due to the difficulty of defending several bases with only units.",
+    "Vs. Zerg": "Spore crawlers in the mirror matchup will often be made later than against other races, due to the lack of stealth or air units available to early game Zergs. If a spire is scouted, spores become a very cost effective defense against Mutalisk harass, due to the excellent bonus damage against Biological units. After a certain mass of Mutas have been made however, spores will not be able to effectively zone out large flocks looking to fly through the outer defenses. A few spores can also discourage players looking to use Corruptors' Caustic Spray ability to snipe a base. Spores may also be positioned to deny scouting from Overlords or Overseers, or at least ensure that such units are forced to take a one way trip. Pushing away these spotters can also help deny an opponent vision into a player's base for Nydus Worms. When burrow-move Roaches and Lurkers are used for harass, it is vital to have this static detection already in place to spot for such attacks. Although Overseers are not threatened by the ground-only attacks of either of these units, they are more expensive and losing them may result in supply block. As point detection in Hydra/Viper/Lurker wars in the late game, they benefit from a decreased attack priority and immunity to the Viper's Abduct ability as compared to overseers."
+  }
+}
