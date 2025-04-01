@@ -1,0 +1,47 @@
+{
+  "Type": "Ground Unit",
+  "Description": "The Reaper is a Lightly Armored scouting unit with excellent freedom of movement, with an out-of-combat Health-regeneration ability. This unit can now be produced from a Barracks and from a Reactor. It still remains a costly & fragile unit; avoiding enemy fire and use of Bunkers or escaping Melee via Cliff edges for protection is advised. Only used for opening with an aggressive scout, to save having to use Scanner Sweep, and briefly to secure time for a Reactor and Command Center (2) to produce. If going for a rush, 3 Reapers minimum are needed to two-shot workers (4x2 damage x 3 Reapers) quickly, Reapers are commonly used as a Hit & Run tactics against Workers and Melee units thanks to its ability to travel up and down cliffs, making it easy to abuse enemy unit's Melee range. With increased health and the Combat Drugs ability, Reapers can take a few hits for an early Marine poke, but mass production beyond the Reaper Opening is not advised as Reapers do not scale in any way into the mid or late game. Hellions or Marines and Medivacs are recommended instead as a transition (depends on match-up). Note: Although the 'Combat Drugs' upgrade states certain values, the regen is actually 2hp/s with 10s delay.",
+  "Built From": "Barracks",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 50,
+    "vespene": 50,
+    "game_time": 32.0,
+    "supply": 1
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground",
+    "Damage": "4 (+1) (x2)",
+    "DPS": "10.1 (+2.5)",
+    "Cooldown": "0.79",
+    "Bonus": "Not found",
+    "Bonus DPS": "Not found",
+    "Range": "5"
+  },
+  "Unit stats": {
+    "Defense": "60 0 (+1)",
+    "Attributes": "Biological, Light",
+    "Sight": "9",
+    "Speed": "5.25",
+    "Cargo size": "1"
+  },
+  "Strong against": [
+    "Probe",
+    "SCV",
+    "Drone"
+  ],
+  "Weak against": [
+    "Stalker",
+    "Marauder",
+    "Roach"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "General": "Due to high Vespene Gas cost these units are NOT considered disposable like Marines, and need to be kept alive to keep the benefits of the threat of Reapers backstabbing an opposing player that wishes to play aggressively against a Reaper opening. Reapers can tank damage and heal themselves to some extent, in place of Marines, in the early game for a Reactor-based Marine push timing. Having been drastically changed from the Wings of Liberty counterpart, Heart of the Swarm Reapers no longer have a specific anti-Building attack or a +4 bonus to Light units. However, they also no longer require a Tech Lab. A popular usage of the Reaper is making only one or two of them and using these to mostly scout. Harass, while good, is limited to only times where the Reapers are sure to escape after they have done some damage. It is better to spare an enemy worker if it means saving your Reaper, this is since scouting is the main purpose of the Reaper on a one-two Reaper builds. While the in-game description still, after the changes to the reaper in HotS, says that the reaper is good against workers and weak against early game armored units, this is no longer true. For example, a group of reapers can with good micro easily defeat a smaller group of stalkers with no casualties. This is because the reapers will regenerate their health if they are pulled out of combat when they are close to dying. Using this strategy will allow the player to damage or defeat the enemy stalkers/roaches/marauders without losing any reapers. On the other hand, Reapers are no longer as good against workers as they used to be. It takes reapers 5 shots to kill probes and 6 shots to kill SCVs and drones (due to health regeneration) whereas in Wings of Liberty it only took 3 shots for all workers.",
+    "Vs. Protoss": "There exists a timing against Sentry-before-Stalker openings, using a Reaper to distract or even kill the first Sentry and attack with mass Marines; Sentry openings against Terran are not common unfortunately. Proxy-Marauder Bunker-rush is quite common against Protoss instead. The commonly used Marines (to 2) or Reaper (1) > Reactor opening is a common opening against Protoss, so the Reaper can intercept the Zealot (1) + Stalker (1) pressure timing, made famous by MC (Has been known to kill Terrans, if the Wall-Off is not complete in time) and buy time the follow-up Reactor to finish. This opening is designed to get a Reactor quickly to deal with proxy-Oracle builds by getting to six Marines (5 cannot kill an Oracle) and get an Engineering Bay up quickly as well. Reapers make an excellent scouting alternative to scanning. In small battles Reapers are very efficient versus Stalkers, due to their ability to negate damage taken. Three Reapers can beat a single Stalker without losing any Reaper. Four Reapers are able to beat two Stalkers with losing none or only a single Reaper, with minimal micro. A single Reaper is not able to beat a single Sentry, two or more are required.",
+    "Vs. Terran": "A single unupgraded Reaper beats a single unupgraded Marine but will quickly die from 2 marines if not microed. At the same time, one reaper cost more than 2 marines. Marines and Reapers have the same range which makes it difficult for the reapers to harass SCVs guarded by marines or the marines themselves. Finally, marines become a much more viable unit in the mid- and late-game than the reaper due to the stimpack ability. This makes reapers very cost inefficient against marines. Marauders are also decent against reapers when they have the concussive shells because this makes it difficult for the wounded reapers to escape from combat. Hellions and Siege Tanks are also effective against reapers because they do heavy area damage and because the Hellions to bonus damage to reapers. Any air unit that can attack ground is also effective against reapers since reapers only can attack ground units. As a result, reapers are rarely a viable unit in TvT. A little bit slower than Hellions, but has way higher DPS than a hellion if not AOE'd. Also a better scout due to its health regen.",
+    "Vs. Zerg": "Can be used instead of a 2-Rax Bunker rush, due to the speed of Reapers is more reliable for longer distances. So you don't have to proxy 2-Rax every time you want to pressure a Hatchery First build from Zerg. Reapers are decent for scouting, but can very quickly be shut down. However, going in with 3 Reapers and doing some harassment can cause an overreaction of lings, or even defenses."
+  }
+}

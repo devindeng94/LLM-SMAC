@@ -1,0 +1,47 @@
+{
+  "Type": "Air Unit",
+  "Description": "The Phoenix is a swift and deadly spacecraft well suited for air-to-air combat (even while moving), warps in at the Stargate.  Made either pre-emptively to counter early air threats like Medivacs, Banshees and Mutalisk, or off of scouting from the equally as fast Oracle. Has the unique ability Graviton Beam that lifts a ground unit into the air, disabling it and makes it vulnerable to attack by other Phoenix.  Making for a nice opening against Zerg's Overlords that may be spread around the map or Terran's that commonly open with a Medivac with Marines + Factory units to harass. Will commonly be comboed with Adepts for the many harassment opportunities and defensive options both these two and Oracles give in the early to mid game. Even without Chrono Boost this unit's build time is quick and can respond to a threat Mutalisks or tank shots for Colossi against Viking or Corruptor shots.  Gaining the nickname of \"The Flying Zealot\" (like Oracle is sometimes compared to Dark Templar)",
+  "Built From": "Stargate",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 150,
+    "vespene": 100,
+    "game_time": 25.0,
+    "supply": 2
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Air",
+    "Damage": "5 (+1) (x2)",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "+5 vs Light",
+    "Bonus DPS": "+12.7 vs Light",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "120 60 0 (+1)",
+    "Attributes": "Light, Mechanical",
+    "Sight": "10",
+    "Speed": "5.95",
+    "Cargo size": "Not found"
+  },
+  "Strong against": [
+    "Banshee",
+    "Void Ray",
+    "Mutalisk"
+  ],
+  "Weak against": [
+    "Battlecruiser",
+    "Carrier",
+    "Corruptor"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "General": "The Phoenix is a great hit-and-run unit, a group of several Phoenixes can easily move into an undefended worker line and cause big economic damage. The Phoenix is fairly effective at disabling caster units or destroying them outright. Most casters have light armor, and lack abilities that are very effective against Phoenix. Phoenixes can also support your main army by lifting up other high threat units like Siege Tanks. Graviton Beam is very handy for asserting a defensive advantage. The Phoenix can whittle down retreating forces by lifting units, trapping them for your main army to destroy. Graviton Beam can freeze high power harass units like Hellions or casters, giving more time for your defenses to respond. Phoenix can also help with defense by trapping units foolish enough to get in range of Photon Cannons, making them easy kills.",
+    "Vs. Protoss": "With the removal of the Mothership Core, as well as the sentry hallucination buff, Phoenix play is a lot more powerful now, as the Shield Battery doesn't have the same effect Photon overcharge did when warding away Phoenix. Phoenix, or Stargate builds in general, are a good soft-counter to Robotics tech, as well as Nexus first builds. With the Hallucination buff, of lowering the energy cost to 75, Protoss now tend to tech Stargate units, to allow easier defense of Phoenix, usually evolving into full scale Phoenix wars. In these armies, Protoss spend the vast majority of their resources building pretty much only Phoenix, as whoever wins the Phoenix war, wins the game. However some players open Robotics Facility tech and Phoenix can counter them due to the fact that: Phoenix can lift Immortals to neutralize their attack and kill them in relative safety. Phoenix can attack Colossi directly. Phoenix cannot be attacked by Zealots, Colossi nor Immortals. A Phoenix has 180 effective hp and counts as light, thereby able to take 14 Stalker hits before dying, 15 with +1 Air Armor. The Phoenix is one of the fastest units in StarCraft II, giving it the ability to enter and escape battles quickly. Phoenix also cancel the Disruptor's Purification Nova, making them necessary when you face Stalker-Disruptor compositions with Immortal Archon Chargelot. These advantages make the Phoenix a surprisingly viable option in the match-up. However, Phoenix have very little stopping power on their own. They cannot stop your opponent from expanding, and they offer little threat in punishing your opponent. Top level players prefer to spend the initial energy of phoenix to kill at least 1 probe per phoenix before save up energy for big battle. This economic harassment allows a player to close the income gap when opening Phoenix against a quicker expansion. Against an opponent who opens up with Robotics tech, Phoenixes will easily shut that play down. Immortals are utterly useless against Phoenixes due to lack of anti-air capabilities, although you should be careful if they make Stalkers. Should the opponent try for a 3Gate Robo Immortal All-in play, Phoenixes can also snipe Sentries à grâce the bonus damage to light units and resistance to Stalkers' anti-armor attacks. They can also snipe the Warp Prism rendering the push dead in the water, if the opponent isn't careful enough. A common use for the Phoenix is to get 5 or 6 and constantly harass the opponent's mineral line. 5 Phoenix generate an average of 50 energy (enough for one use of Graviton Beam) for every 17.7 seconds (roughly 14 seconds with 6). Taking into account that Probe build time is 17 seconds (without Chronoboost), means 6 Phoenix allows the effective shut down of one base's Probe production. Phoenix will usually force a large anti-air response from the opponent. Most of the time, this means Stalkers (with or without Blink). As a result, progamers such as TT1 or DdoRo often build Immortals when opening with Phoenix. Please note that the Phoenix is outranged by the Void Ray's range of 6 until their range is upgraded from the Fleet Beacon, after which they outrange Void Rays by 1. The tensest situation for Phoenixes, other than dealing with DTs and large Archon counts, is dealing with other Phoenixes. It is extremely tricky to micro Phoenixes so that one's Phoenixes are focus-firing on one of the opponent's Phoenixes on the move. The most important upgrade in this scenario is Anion Pulse-Crystals as it allows your one player's Phoenix to attack the other player's while they can't retaliate in return. Combine this with Air attack upgrades and a player will be able to mow down a larger Phoenix count with little fear of retaliation provided his control is sufficient. This situation is tense due to the fact that a 1 Phoenix advantage will never result in a very close trade when 2 Phoenix fleets try to engage rather there will be a large numerical difference of the surviving Phoenix for the player with a 1 Phoenix advantage. As a Phoenix war progresses getting a Mothership for it's cloaking capabilities as Phoenix will immediately kill any form of detection if the enemy player isn't careful you can then follow it up with Carriers to secure a further lead.",
+    "Vs. Terran": "Currently, Phoenixes are used in PvT to stop and prevent Medivac and Banshee harassment, due to their inability to fight back against air units. The Phoenix's bonus damage to light armor also gives them significant DPS advantages against said units, and against Vikings. In addition, Phoenixes can snipe key units, such as Cyclones, Siege Tanks and Liberators, which are more common in the present Legacy of the Void TvP metagame. Phoenixes can also be used to scout. Although the Observer is cloaked, it is a slower option, even if its speed is upgraded. You could also use hallucinated Phoenixes produced from a Sentry to scout without committing to a Stargate transition, but the real thing can actually harass mineral lines and stall the construction of any buildings along the way.",
+    "Vs. Zerg": "Phoenixes are a very common follow-up after expanding in PvZ, or even as an opening. Generally, Phoenixes are far more effective when in a squad of 4 or more before showing them to your opponent because 4 Phoenixes can kill a Queen using just one graviton beam. Phoenixes can be used to eliminate Overlords off the map to deny the Zerg's scouting and map control, and may be able to supply block the Zerg, thus halting their army/economic growth. Phoenixes pair well with Void Rays or Oracles, as Phoenixes can lift units such as Queens and tank damage from Spore Crawlers (if the Zerg player does not manually target the Void Rays or Oracles) while the Void Rays or Oracles deal the damage without being attacked. While they can attack air units, Hydralisks are vulnerable to a group of Phoenixes if there are not enough of them. Phoenixes are a good way for Protoss to deal with Mutalisks."
+  }
+}

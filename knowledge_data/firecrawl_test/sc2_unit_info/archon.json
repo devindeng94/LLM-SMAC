@@ -1,0 +1,47 @@
+{
+  "Type": "Ground Unit",
+  "Description": "The Archon is a powerful Protoss short-range unit. It excels against biological units and structures. An Archon is created when two of either Dark Templar or High Templar merge together on the battlefield; the Archon cannot be produced at any building. Archons can attack air or ground units and deal area-of-effect damage. Archons' tremendous shield points can withstand terrible punishment, offsetting their exceptionally low health: an Archon has only ten health points beneath its shield. Archons have very few attributes; they are considered Massive and Psionic. Bonuses against massive units only apply to air targets (and Graviton Beam can't target massive units), and Legacy of the Void has no bonuses against Psionic units (Snipe was removed). As such, the Archon is an effective all-rounder unit - apart from Ghosts, who can use EMP Rounds to tear through their shields, there is no one unit that works especially well against the Archon. Archons have three possible mineral/gas costs, depending on how they are created.",
+  "Built From": "Not found",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 0,
+    "vespene": 0,
+    "game_time": 8.57,
+    "supply": 4
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground / Air",
+    "Damage": "25 (+3) (Splash)",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "+10 (+1) vs Biological",
+    "Bonus DPS": "+8 (+0.8) vs Biological",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "10 350 0 (+1)",
+    "Attributes": "Psionic, Massive",
+    "Sight": "9",
+    "Speed": "3.94",
+    "Cargo size": "4"
+  },
+  "Strong against": [
+    "Marine",
+    "Mutalisk",
+    "Adept"
+  ],
+  "Weak against": [
+    "Thor",
+    "Hydralisk",
+    "Immortal"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "General": "Archons primarily function as support units. Because they have a range of 3, Archons can sit safely behind a line of Zealots and deal damage to the enemy forces without taking much damage. Because Protoss shields regenerate rapidly out of combat, Archons are much more effective if they pull out of battle before they die. Archons cannot be commanded as they merge, but they can be bumped around like big psionic soccer balls by moving units into them. Morphing Archons can be moved behind the army as protection, or taken to retreat with the rest of the army. Archons are often used as part of or against a timing push. They are a Protoss player's quickest access to area of effect damage. The Colossi and High Templar require some time to reach their potential. Colossi require a Robotics Bay in addition to the Colossus itself, whereas a High Templar's Psionic Storm costs 75 energy and must be researched. Archons are massive units; ergo, they crush Force Fields on contact. This makes them especially useful in PvP timing pushes because many players rely on Force Fields for defense. Players often merge Archons when High Templar run out of energy in the field, or if the opponent has detectors that vitiate the Dark Templars' main strength. The warp in cost of an Archon from two High Templars is 100/300, and the cost from two Dark Templars is 250/250. The cost of merging an Archon from one of each is consequently 175/275. Gas is a more \"precious\" resource within StarCraft II because it is used for teching and upgrades; therefore, it may be better to warp in Dark Templar to make Archons. However, the Protoss may use High Templar to save minerals for building chargelots, since chargelots are powerful when paired with archons. This may be especially useful to follow a DT Fast Expand, as the saved gas allows for a faster transition into a more \"standard\" method of play.",
+    "Vs. Protoss": "Archons are strong against almost every Protoss unit, but most notably when up against Gateway units. Zealots are eaten up by splash and bonus damage while Adepts can't deal any real damage against them. Sentries are worthless because Archons break force fields. In terms of splash counters however Archons are countered by Disruptors due to the latter's bonus vs shields and the former's inability to reliably dodge purification novas without prism pickup micro. However the Archon's large size makes it so that splash of a Purification Nova isn't able to hit much else. Saving Archons from near death and throwing them back into your army when their shields recharge can be a deciding factor in this match up, since small economical gains in a mirror match can make or break a game. Generally the way to counter Archons is by simply focus firing them. Usually however PvP engagements end up being prism micro competitions in which the player who can juggle his units better wins. Archons are \"Massive\", and can therefore destroy Force Fields. Note that the perimeter in which Archons destroy Force Fields is larger than what the model might indicate. Another use for Archons in PvP is against Void Rays and Carriers. The former being susceptible to clumping and having poor damage against Archons. While Carriers do have a better fighting chance, Archons with shield upgrades, sufficient numbers and under shield batteries can beat Carriers by taking down their interceptor complements rendering the ships useless.",
+    "Vs. Terran": "As the current TvP playstyle favors Marine/Marauder use and both these units are subject to the Archon's bonus damage, the Archon can be a useful addition to the army. In addition, being a Massive unit makes them immune to being slowed by concussive shells. However care must be taken to avoid exposing Archons to direct fire from large groups. Finally, it is important to note that the Ghost EMP Round will only drain 100 shields from the Archons affected, instead of the whole amount as it did previously. Against Mech in LOTV, the Archon is now the most durable unit against Siege Tank fire, due to its lack of an armored tag and changes to the Immortal's shield ability. Even if the two units have similar numerical values of HP, the Archon will take far less damage due to its non-armored classification. In terms of game pacing, after being harassed with Dark Templar, a Terran player will place down Missile Turrets greatly limiting access to his base with cloaked units. To deal with this, leftover Dark Templar may be morphed into Archons and included in the main fighting force.",
+    "Vs. Zerg": "Their bonus against biological units makes Archons effective against all Zerg units. In fact, Archons can one-shot Zerglings and Banelings unless +1 carapace is researched. Conversely, this can be negated by the Protoss player researching additional tiers of Ground Weapons. An Archon with +3 weapons will also be able to 2-shot a Hydralisk with up to +1 carapace, in all other cases, an Archon will be able to 3-shot a Hydralisk. With +2 carapace, a Hydralisk will be left with 1 HP after 2-shots from an Archon with +3 weapons due to HP regeneration. Archons are capable against Lurkers, but gas inefficient and may only be be able to effectively trade out in small numbers. In this matchup Archons have many uses. They can be used to harass the opponent via Archon drops with a Warp Prism. Or they can be made en masse to counter comps that are heavy on Ling Bane. Note that without any upgrades it takes 18 (+ 1 as the Archon will instantly kill one of the banelings before they hit) banes to kill a single Archon. In addition, they are very powerful against Mutalisks, dealing a quarter of their health per hit to everything in the splash area. Since Mutalisks tend to clump, this can be devastating. But this also makes them susceptible to Psionic Storm, which has much farther range, and most players prefer High Templars for this reason. Poorly controlled Corruptors will also be vulnerable for the same reason, with their armor bonus offering negligible resistance to the Archon's considerable damage. Archons splash can also be used to kill Creep Tumors without detection. Two attacks on a friendly unit close enough to the tumor will kill it."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Type": "Ground Unit",
+  "Description": "The Disruptor is a Protoss Construct unit with no auto attack, produced from the Robotics Facility after finishing the Robotics Bay. It was introduced in Legacy of the Void.\nOriginally built for channeling power from a starship reactor, this unit's design and animation while using its ability reflect this. Once enabled, its \"Purification Nova\" (Nova for short), after a short delay for targeting, explodes and hits friendly and enemy units alike (except friendly Disruptors). The movement speed of the Nova is slightly faster than the average speed of units without their movement upgrades, with other units can dodge or escape into the air. Similar to the High Templar and its Psionic Storm ability this unit is best used with a Warp Prism  (ideally with Gravitic Drive), which can carry two.",
+  "Built From": "Robotics Facility",
+  "Requirements": "Robotics Bay",
+  "Cost": {
+    "mineral": 150,
+    "vespene": 150,
+    "game_time": 36.0,
+    "supply": 4
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Not found",
+    "Damage": "Not found",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "Not found",
+    "Bonus DPS": "Not found",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "100 100 1 (+1)",
+    "Attributes": "Armored, Mechanical",
+    "Sight": "9",
+    "Speed": "3.15",
+    "Cargo size": "4"
+  },
+  "Strong against": [
+    "Marauder",
+    "Hydralisk",
+    "Stalker"
+  ],
+  "Weak against": [
+    "Thor",
+    "Ultralisk",
+    "Tempest"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "General": "The Disruptor fills a similar role to the Colossus, but is not specialized against light units. However, Purification Nova will still one-shot any light ground unit. Colossi are capable of moving across cliffs and combo well with the Stalker's Blink ability for short range instant teleportation; however Colossi can be hit from the air and have a limited window of time to be useful and alive. Disruptors can be a follow-up to Colossi or a cheaper alternative, especially if opening Warp Prism with Gravitic Drive for drop harassment. The Disruptor is very good when paired with the Mothership's time warp ability, preventing the enemy army from effectively retreating or splitting their army. Combinations with the Sentry's force field can prevent enemy units from escaping the Purification Nova as well. Additionally, the Purification Nova can go through Force Fields. The Disruptor is very good against ground units that cannot move, such as Siege Tanks in siege mode and Lurkers, or even enemy Disruptors. Disruptors also allow one to kill stealth units without detection.",
+    "Vs. Protoss": "Immortals are sometimes used to handle Disruptors numbers. Stalkers can use Blink to avoid damage from the Nova. Phoenix are often used to disable Disruptors once the Nova has been launched, which prevents all damage.",
+    "Vs. Terran": "Used as an opening with Warp Prism (with Speed Upgraded). They can combat Siege Tank pushes and other mech units. Their nova range is equivalent to siege range, and lets them hit tanks without taking any damage if microed perfectly. However, they must be supported with gateway units, as the tank will be left with 30 HP after being hit by the nova, and the disruptor will die to a third shot from the sieged tank. As a follow-up after Colossi which have been hard countered by Vikings. Disruptors can provide AOE support without being vulnerable to anti-air. Disruptors are also a more effective response to deal with large masses of Marauders (as the unit has the armored tag, and does not take anti-light bonus damage from the Colossus).",
+    "Vs. Zerg": "With the revertion of the Disruptor to its pre 4.0 state Disruptors are no longer as useless vs Zerg as they have been during patch 4.0 - 4.7.1 With this said, it is only advisable when a Zerg creates force of Roaches and Hydralisks or Roaches and Ravagers trying to brute force their way through a Protoss while off creep in large clumps is very vulnerable to getting destroyed by Purification Novas."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Type": "Air Unit",
+  "Description": "The Observer is a flying cloaked spy drone and Detector for the Protoss, built at the Robotics Facility. It is permanently cloaked, so opponents need detection in order to see and kill the Observer. The Observer has a relatively slow flying speed, but its speed can be upgraded by researching Gravitic Boosters at the Robotics Bay.",
+  "Built From": "Robotics Facility",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 25,
+    "vespene": 75,
+    "game_time": 17.9,
+    "supply": 1
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Not found",
+    "Damage": "Not found",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "Not found",
+    "Bonus DPS": "Not found",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "40 30 0 (+1)",
+    "Attributes": "Light, Mechanical, Detector",
+    "Sight": "11 (+2.75)",
+    "Speed": "2.82 (+1.41)",
+    "Cargo size": "Not found"
+  },
+  "Strong against": [
+    "Dark Templar",
+    "Banshee",
+    "Roach"
+  ],
+  "Weak against": [
+    "Photon Cannon",
+    "Missile Turret",
+    "Spore Crawler"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "General": "As a general rule, the Observer should be acquired as soon as feasible in all builds, and should usually be the first unit produced out of the Robotics Facility unless there is a pressing need for fast Immortals. Many players choose to Chrono Boost their Observer, as it provides defensive detection and invaluable scouting information on the opponent's army. Normally this first Observer is positioned at the choke of the opponent's base after completing scouting, as this is where most players mass up their armies before heading out. In all matchups it is wise to get Observers for detection, to provide vision of high ground areas during attacks, and for scouting throughout the match. This battlefield knowledge of enemy movements and tech choices is of paramount importance, and can help you prepare for an impending attack or provide you with an excellent opportunity to hit a vulnerable base. Because of their sight range is significantly greater than any attack range of static defense, Observers can and should avoid being taken down in this way. However, the detection range of these buildings matches the observer (when not in surveillance mode), which means that if your Observer can see static defense, it is visible to the enemy (sight ranges are all 11). This also implies that the only real threats to Observers are scan and mobile detection. During the mid or late game Observers are often used to keep tabs on an opponents tech route or progress and also their economic situation, especially vs Zerg, to keep tabs on the number of bases that have been taken and the level of saturation on each. Multiple (2-3) observers will usually travel with the army to ensure some redundancy in case they get picked off, and can be split off to points of interest as required.",
+    "Vs. Protoss": "Observers are used to obtain valuable scouting information, although it is wise to be careful with one's scouting observer if one's opponent also has Observers himself. They are also essential to countering Dark Templar, which can ruin even the most perfectly planned midgame for Protoss.",
+    "Vs. Terran": "It can be important to keep an Observer or two around your army with the Banshee's ability to cloak and attack Protoss ground units. Without proper detection, the Protoss army is susceptible to Terran surprise aerial attacks, and so it is essential to have an Observer with your troops. Similarly, due to the high ground and cliffing characteristics of the game, keeping an Observer near expansions can protect them from Tank harassment.",
+    "Vs. Zerg": "Observers are usually used to scout the Zerg's base and one is usually brought with the Protoss army for the midgame push to reveal any burrowed Banelings, Roaches, Infestors, Lurkers or Swarm Hosts. They are also useful for keeping track of Mutalisks as they fly around the map or near bases, giving the Protoss more reaction time to pull probes and move units to defend. They are also commonly used to spot for Creep Tumors to contain Zerg creep spread in the early game, or remove it before a push to make it more difficult for the Zerg to see and surround the push."
+  }
+}

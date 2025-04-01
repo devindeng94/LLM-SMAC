@@ -1,0 +1,41 @@
+{
+  "Type": "Ground Unit",
+  "Description": "The Baneling is a suicide bomber unit morphed from Zerglings after a Baneling Nest has been constructed.  Similar to the Infested Terran from Brood War, the Baneling is a suicidal unit that deals significant splash damage. Banelings have a splash radius of 2.2 and do not deal friendly fire damage to either your units or those of your allies. However, their attack range - unless manually detonated - is only 0.25, which is basically melee range and too short to go off from second row by themselves. But they can be detonated manually, and they will also perform their \"attack\" upon death. Banelings are a very effective unit against Light units due to their high damage bonuses in combination with splash damage. Correctly using a group of Banelings can deal massive damage to a hostile army and allow other units to clean up any remaining army much more easily. Because of their low survivability, getting Banelings to successfully hit groups of enemies is key. There are many options that can help a player use Banelings effectively: Try to surround and attack, pull back a little and attack again. You don't want to waste Banelings on tanky units such as Marauders. You want to hit light units, so be wary of good players who will use these Armored units to shield their Light units. Banelings deal a lot of damage against structures, dealing significantly more damage that scales well with upgrades but they are very cost-ineffective. There are several things to note about Baneling damage vs. structures:",
+  "Built From": "Not found",
+  "Requirements": "Baneling Nest",
+  "Cost": "Cost information not found or in unexpected format",
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground",
+    "Damage": "16 (+2) (Splash)",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "+19 vs Light",
+    "Bonus DPS": "Not found",
+    "Range": "0.25 (melee) 2.20 (AoE)"
+  },
+  "Unit stats": {
+    "Defense": "30 0 (+1)",
+    "Attributes": "Biological",
+    "Sight": "8",
+    "Speed": "3.5 (+1.05)",
+    "Cargo size": "2"
+  },
+  "Strong against": [
+    "Marine",
+    "Zergling",
+    "Zealot"
+  ],
+  "Weak against": [
+    "Marauder",
+    "Roach",
+    "Stalker"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "Vs. Protoss": "With the nerfs to Baneling damage vs non-light units, as well as their losing the ability to one-shot Probes, Banelings are rarely seen in army compositions anymore, most players now preferring Lurkers instead. With that said, Banelings are still used in some situations for harassment and mid-game timings.",
+    "Vs. Terran": "Against Terran bio, Banelings see extensive use. They are primarily being used to kill or, at the very least, flush Marines out from the Terran bio-ball. In combination with Zerglings, Banelings can be devastating as they force the bio to split, increasing the surface area for the Zerglings. However, Banelings are very vulnerable to Widow Mines and Siege Tanks that are properly target fired, being one shot by the splash damage of both units. Banelings see much less use against mech due to their aforementioned weakness to Siege Tanks. Despite that, they are sometimes used in high-momentum army compositions to destroy Planetary Fortresses, albeit with very poor cost efficiency.",
+    "Vs. Zerg": "Most games of ZvZ are characterized by the early game Ling-Bane phase, as both players try to out-micro each other to either end the game or secure a faster third base, centering around the Baneling's ability to instantly kill all Zerglings in its splash damage range. While many games will continue on into the Roach-Ravager phase, increasingly more often one player will choose to go with Mutalisks. After this they can choose to transition into Ultra-Ling-Bane-Viper. This composition depends on high-momentum, being out-traded by Hydra-Lurker-Viper due to the Baneling's vulnerability to Lurkers, it being critical to deny the other player's mining."
+  }
+}

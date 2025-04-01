@@ -51,6 +51,9 @@ class LLMAPIConfig:
     def get_task_model(cls, task):
         model_name = cls.TASK_MODELS.get(task)
         return cls.get_model_config(model_name)
+    @classmethod
+    def get_model_dict(cls):
+        return cls.TASK_MODELS
 
 if __name__ == '__main__':
     config = LLMAPIConfig()

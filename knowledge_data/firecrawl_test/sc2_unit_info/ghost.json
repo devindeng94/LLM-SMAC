@@ -1,0 +1,46 @@
+{
+  "Type": "Ground Unit",
+  "Description": "The Ghost is a specialized infantry unit built from a Barracks with an attached Tech Lab once a Ghost Academy has been constructed. The Ghost stands as an Anti-Spellcaster unit and high damage versus Light units. Steady Targeting deals 130 (+40 vs Psionic) damage regardless of armor to any biological unit at the cost of 50 energy. It cannot be queued to multiple units, so it is mostly effective against high health biological units or for quickly dispatching high impact units. Steady Targeting returns its energy cost if it fails. The Ghost's Cloak allows it to render itself invisible to enemies without detection. This is generally used to get the Ghost into a good position to EMP or Steady Target an opponent, or to sneak into a base for a Nuke. If using the Cloak to setup an EMP, you must keep an eye on the energy bar as it could prove disastrous if you do not have enough Energy left to cast EMP against various armies. The EMP Round is the Ghost's most important spell against Protoss due to every unit having shields. Against Zerg and Terran, EMP is effective against dedicated spellcasters. The AoE shot will remove 100 energy (and shields, if applicable) from all units/buildings under its effect. This is essential for use against Protoss opponents for many reasons. The spell effectively does up to 100 damage to anything it hits and can nullify many dangerous Protoss units. Used against a High Templar, the Ghost can prevent the use of Psionic Storm. It also reveals any cloaked units within its radius for a short time, rendering them vulnerable until the effect wears off (though it will not reveal burrowed units). The EMP Round can also be used against structures, where it can damage the shields of Protoss buildings or drain energy from an Orbital Command. The Tactical Nuke is another ability of the Ghost and will allow the unit to call down a Nuke on a target location provided the Ghost Academy has a Nuke ready and that the Ghost can channel for the full-time. The Nuke is a devastating ability that deals terrible, terrible damage to any buildings or units that it hits. However, the cost of using Nukes is very high and requires a heavy amount of gas and minerals to tech to. The long call-down time (14 seconds) also renders it ineffective against units, as they can easily move away. However the large radius of a nuke and possibility to land multiple strikes can allow the Terran to create a more effective push by zoning out areas. The Nuke can also be used as a psychological weapon against your opponent due to its high damage potential and global alert. The Nuke deals 300 full damage to all units in the inner circle of the blast radius,  50% damage to the radius immediately after and 25% damage to the outermost bounds. Note also that the Nuke deals an additional 200 damage to structures, making it highly effective against fortified areas (effectively one shooting all forms of static defense but the planetary fortress. The Nuke is castable from a maximum of 12 range (though the ghost's vision range is only 11). A nuke is not cancelable in the last 0.5-0.7 seconds before impact. During this period the ghost calling the nuke can freely move already.",
+  "Built From": "Barracks with Tech Lab",
+  "Requirements": "Ghost Academy",
+  "Cost": {
+    "mineral": 150,
+    "vespene": 125,
+    "game_time": 29.0,
+    "supply": 3
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground / Air",
+    "Damage": "10 (+1)",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "+10 (+1) vs Light",
+    "Bonus DPS": "9.3 (+0.93) vs Light",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "100 0 (+1)",
+    "Attributes": "Biological, Psionic",
+    "Sight": "11",
+    "Speed": "3.94",
+    "Cargo size": "2"
+  },
+  "Strong against": [
+    "High Templar",
+    "Raven",
+    "Infestor"
+  ],
+  "Weak against": [
+    "Stalker",
+    "Marauder",
+    "Zergling"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "Vs. Protoss": "Ghosts can be an essential support caster for this match-up, for the use of their EMP alone. Well placed EMPs from a handful of Ghosts will devastate an opposing Protoss army, eliminating the majority of their shields and nullifying any casters that they may have. This is especially helpful against heavily shielded units such as the Immortal and also entirely removes the impact of High Templar and Sentries from the battle. In a pinch, EMPs can be used to reveal Observers and Dark Templar for a short time. The Ghost Academy can often be seen being built soon after the Terran takes his third base. However, MarineKing has shown some early Ghost timing pushes off 1 base with great effect against expanding Protosses with Sentries.[1] EMP can also be used on Terran's own units to prevent them from taking damage by the High Templar's Feedback ability. This can also come in handy when Medivacs are (solely) being employed for their transportation capabilities.",
+    "Vs. Terran": "Ghosts have little practical use in TvT, though they can be used for Nuke rushes. Their EMP can render Medivacs useless for a short period of time as they require a minimum amount of energy in order to start the healing process. Even if the Medivac reaches that threshold, its healing consumes more energy than it can recharge so its effectiveness remains impaired. EMP can be also be used against Orbital Commands, thereby dealing indirect damage to the opponent's economy, or to create an opening for a Nuke by denying the enemy a counter-scan.[2] Banshees and Ghosts can be decloaked and - being stripped of all their energy - kept from re-cloaking for at least a minute. A drained Raven is reduced to nothing more than a detector and a convenient way to see high ground. However, the Ghost First has seen some popularity as a rush/harass strategy after its use by qxc. In the GSL, TLO used nukes to great effect in TvT. TLO would begin to nuke established tank lines or fortified positions, forcing them to move back or be destroyed. As the enemy unsieged, TLO would move forward and siege inside the nuke's blast radius. Once TLO was set up and the enemy was disorganized, he canceled the nuke.",
+    "Vs. Zerg": "Ghosts can be used for Nuke rushes, but Steady Target can be vital in sniping high profile targets such as Overseers, Infestors and Vipers. Ghosts are also sometimes used to support Bio armies with Steady Target and their 10+10 damage against light units. In later stages of the game, it is common to see ghosts as part of a bio army to counter higher-tier Zerg units. Ghosts can use a combination of cloaking and Steady Target against high-value, powerful targets like Brood Lords and Ultralisks. The Zerg must then make it a priority to counter the ghosts, with Infestors often used to attack the grouped ghosts and also revealing them should they be cloaked. Another usage of Ghosts in late game is to push back the Zerg player with Nuclear Missiles and have some map presence in late game. Due to the fact that moving out on the map is so dangerous for Terran armies later on, Ghosts make up for this deficiency in this regard. ByuN has popularized Ghost usage against Zerg, notably in his games against Zenio in the GSL with its EMP ability to drain the energy off Infestor to prevent them from getting Fungal Growths off on the Terran bio army."
+  }
+}

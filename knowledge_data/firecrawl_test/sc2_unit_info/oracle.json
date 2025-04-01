@@ -1,0 +1,42 @@
+{
+  "Type": "Air Unit",
+  "Description": "The Oracle is a flying harassment and support caster for the Protoss that is produced from the Stargate. In LotV the ability Stasis Ward was added. While fairly expensive and fragile, the Oracle is a very mobile unit and has several useful spells. Its attack, Pulsar Beam must be activated for an energy cost before it can be used and also drains energy while the ability is activated. It rapidly destroys workers and other light units, although anti-air units and structures will quickly kill it. The Oracle is also an effective scout and can be used as a temporary detector.",
+  "Built From": "Stargate",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 150,
+    "vespene": 150,
+    "game_time": 37.0,
+    "supply": 3
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground",
+    "Damage": "15 (Pulsar Beam)",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "+7 vs Light",
+    "Bonus DPS": "+11.5 vs Light",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "100 60 0 (+1)",
+    "Attributes": "Mechanical, Armored, Psionic",
+    "Sight": "10",
+    "Speed": "5.6",
+    "Cargo size": "Not found"
+  },
+  "Strong against": [
+    "SCV",
+    "Drone",
+    "Probe"
+  ],
+  "Weak against": [
+    "Viking",
+    "Mutalisk",
+    "Phoenix"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": "Competitive Usage information not found"
+}

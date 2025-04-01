@@ -1,0 +1,46 @@
+{
+  "Type": "Ground Unit",
+  "Description": "The Roach is an Armored-ground unit that can be produced after a Roach Warren has been built. With the Tunneling Claws upgrade, the Roach becomes one of two units (the other being the Infestor) that is able to move while burrowed. This is also indicated by the appearance of crystals on the backs of the Roaches. The Roach is useful in all three match-ups because it can absorb large amounts of damage. Roaches have very high HP values considering their cheap cost. This is augmented by its ability to regenerate its health at a tremendous rate of 7 HP/second while Burrowed. This allows for a full heal in just over 20 seconds. However, due to both of its slow attack and slow speed while unupgraded, it performs poorly in the early game compared to other units, such as speed Zerglings or defensive Queens. Note that while the Roach also has a melee attack animation, it is affected by Range Attack upgrades, but not by a Guardian Shield.",
+  "Built From": "Not found",
+  "Requirements": "Roach Warren",
+  "Cost": {
+    "mineral": 75,
+    "vespene": 25,
+    "game_time": 19.0,
+    "supply": 2
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground",
+    "Damage": "16 (+2)",
+    "DPS": "11.2 (+1.4)",
+    "Cooldown": "1.43",
+    "Bonus": "Not found",
+    "Bonus DPS": "Not found",
+    "Range": "4"
+  },
+  "Unit stats": {
+    "Defense": "145 1 (+1)",
+    "Attributes": "Armored, Biological",
+    "Sight": "9",
+    "Speed": "3.15 (+1.05)",
+    "Cargo size": "2"
+  },
+  "Strong against": [
+    "Hellion",
+    "Zealot",
+    "Zergling"
+  ],
+  "Weak against": [
+    "Marauder",
+    "Immortal",
+    "Ultralisk"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "Vs. Protoss": "Roaches are used to pin units in place, have a large amount of life, and are gas efficient. Their ability to morph into Ravagers, which have a longer ranged attack, allows the Zerg players to morph only the units they need instead of having to make dedicated units like Hydras that are more gas expensive. Storms are not very effective against these units (as opposed to Zerglings). The key unit to defend Glaive Adepts. Dodging Disruptor shots could be hard, but with the help of creep this's much easier.",
+    "Vs. Terran": "Roach-Ravager compositions, with the Roach as the backbone, are serious threats to Terran in the early game. When used correctly in timing builds that combine +1 missile ,+1 armor and Roach Speed, this alone can often end the game right there before the 8-minute mark. Of course, the effectiveness of this unit depends on the player's skill and, in this case, macro. Large Roach-Ravager armies combined with other units to counter the Terran forces are still deadly and used by many in the late game, as well. Widely used against mech, because Roaches scale better in those situations compared to Zerglings and Banelings. Widely used in various early-game pushes, including the infamous 9-roach build.",
+    "Vs. Zerg": "Roaches are often acquired later than usual due to the presence of the bane/ling meta of early ZvZ. However, certain pros focus on larvae efficient Roach/Ravager timing pushes, which are more steady than the micro intensive baneling micro."
+  }
+}

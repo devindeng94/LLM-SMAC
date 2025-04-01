@@ -1,0 +1,46 @@
+{
+  "Type": "Air Unit",
+  "Description": "The Viking is an anti-air fighter with the ability to transform into an assault walker, with the transformation taking a number of seconds. The Viking is strongest when supported by units that can protect it from ground-based anti-air attacks. They are best suited for taking down strong, hard-hitting air units such as Void Rays, Corruptors, or Tempests (or Colossi) but do not fare as well against lighter and faster units such as the Mutalisk or Phoenix. Vikings are produced from a Starport (with or without a Reactor) and are generally produced in a set number as opposed to continuous production, in order to eliminate enemy air units cost-effectively. With a range of 9 in fighter mode, Vikings greatly benefit from proper micromanagement: taking minimal fire from enemy air units while dealing damage, or forcing the enemy to retreat and relinquish air control. However the assault mode, withs its relatively lackluster damage, does not see much use in the current state of the game. A notable trick to use with large numbers of Vikings is to gather them all at once in a tight formation, which will make them stack onto each other. This will make focus-firing much easier and can sometimes confuse an opposing player by making it difficult to determine the Viking count. Being stacked like this will make the Vikings very vulnerable to area-of-effect and air splash damage, however. Although Blizzard attempted to remove this feature during patch 1.3, a slightly extended procedure achieves a similar result if not the same.[1] Vikings in Assault Mode can be Loaded into Medivacs.",
+  "Built From": "Starport",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 150,
+    "vespene": 75,
+    "game_time": 30.0,
+    "supply": 2
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground",
+    "Damage": "12 (+1)",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "+8 (+1) vs Mechanical",
+    "Bonus DPS": "+11.3 (+1.41) vs Mechanical",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "135 0 (+1)",
+    "Attributes": "Armored, Mechanical",
+    "Sight": "10",
+    "Speed": "3.15 (Ground) 3.85 (Air)",
+    "Cargo size": "2"
+  },
+  "Strong against": [
+    "Battlecruiser",
+    "Brood Lord",
+    "Tempest"
+  ],
+  "Weak against": [
+    "Marine",
+    "Hydralisk",
+    "Stalker"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "Vs. Protoss": "Vikings are mainly useful for infantry support, as they can take out Colossi from a long range. They can also be used to deter Protoss air units, especially Oracle harassment, and Vikings out-range both Void Rays and Phoenices. On an equal supply basis, Vikings will be able to take out Void Rays and without micro will go relatively even against Phoenices and Carriers. Vikings are primarily used to kill Colossi. The approximate number of Vikings to build depends on the number of Colossi your opponent has, although it is also viable to get enough Vikings to take down Colossi in X number of shots. Assuming no upgrades, Vikings deal 10 (+4 armored) x2 damage to air per attack. Therefore it takes 5 attacks to almost deplete their shields (140 damage). After that they deal 13 x2 damage to the hull per attack (Colossi have 1 base armor). 6 attacks will deplete their shields and deal 16 damage to the hull. After that it takes 8 shots to deplete their hull health (184 remaining, 26 damage per shot), for a total of 14 shots. To 3-shot Colossi, therefore, you need 5 Vikings; to 2-shot them, you need 7; to 1-shot them, you need 14.",
+    "Vs. Terran": "In TvT, they are used to hold off the opponent's Vikings, Ravens, and Liberators. TvT often revolves around getting Siege Tanks and Vikings very early on. While the Tanks do most of the damage, the Vikings give increased sight so that the Tanks can utilize their full range. Air dominance is a very important aspect of TvT, as whoever has control of the air will get both the range bonus for his Tanks and the ability to protect his own Ravens, Liberators, and Battlecruisers. In the early mid-game they can also be used for harassing the opponent's mineral line, and in some cases they can supplement the Terran's ground army. Landing them on top of an opponent's sieged Tanks to force them to damage one another is also a popular technique. Another option is to land them on unreachable cliffs, to fire at troops underneath them, especially when the enemy doesn't have air units providing sight. Vikings are often a key aspect of TvT all game long as they have no clear counter. Thors can be used to keep Vikings at bay, but Thors deal low damage against non-light, non-massive air units, so they don't kill Vikings very easily. Battlecruisers can be a viable option in the late game, but as Vikings have longer range, are cheaper and faster to build, Battlecruisers (especially without Yamato Cannon) do not trade against them cost-effectively.",
+    "Vs. Zerg": "Vikings can play both harassing and support roles in TvZ. Apart from scouting, a few Vikings can be used to kill off Overlords to deny scouting. Moreover Overlords are armored, so Vikings get bonus damage for sniping Overlords. Vikings aren't too cost-effective against Mutalisks, but when built alongside Turrets, Thors and/or Ravens, with their long range, they can be used as a deterrent against Mutalisk harass. In the late-game, Vikings are very effective against Corruptors and a hard counter to Brood Lords. However when Brood Lords are supported by Corruptors and Infestors or Vipers, care must be taken because exposed Vikings can be caught by Fungal Growth and Parasitic Bomb. To trade cost-effectively the Vikings should be spread out to reduce the number caught in each spell. Additionally, Kiting helps to fight Corruptors, since the Viking has superior range."
+  }
+}

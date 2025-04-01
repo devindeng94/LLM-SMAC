@@ -1,0 +1,47 @@
+{
+  "Type": "Ground Unit",
+  "Description": "The long-ranged Siege Tank is a Mechanical unit with high damage, particularly versus Armored like Roaches and Stalkers.  Against masses of smaller units, the Siege Tank can switch to the stationary Siege Mode to deal splash damage from longer range. It is built from a Factory with an attached Tech Lab. The Siege Tank is a powerful tool for securing specific tactically important areas of the map, but somewhat immobile compared to other Terran units such as the Marine and other biological units, particularly due to its transformation time. They are also a reliable source of ground splash damage for Terrans. In siege mode, Siege Tanks do 40 (+30 against armored) splash damage. This damage decreases in a radius around the epicenter: units (whether hostile or friendly) within .4687 matrices of the target take full damage, units between .4687 and .7812 matrices of the target take 50% damage, and units between .7812 and 1.25 matrices from the target take 25% damage.",
+  "Built From": "Factory with Tech Lab",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 150,
+    "vespene": 125,
+    "game_time": 32.0,
+    "supply": 3
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground",
+    "Damage": "40 (+4)",
+    "DPS": "18.69 (+1.87)",
+    "Cooldown": "2.14",
+    "Bonus": "+30 (+1) vs Armored",
+    "Bonus DPS": "+14.02 (+0.47) vs Armored",
+    "Range": "13"
+  },
+  "Unit stats": {
+    "Defense": "175 1 (+1)",
+    "Attributes": "Armored, Mechanical",
+    "Sight": "11",
+    "Speed": "3.15 (Tank mode) 0.0 (Siege mode)",
+    "Cargo size": "4"
+  },
+  "Strong against": [
+    "Marine",
+    "Roach",
+    "Stalker"
+  ],
+  "Weak against": [
+    "Banshee",
+    "Mutalisk",
+    "Immortal"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "In General": "The Siege Tank's greatest asset is its range of 13. This is 2 matrices greater than the Tank's vision, so maximization of tank effectiveness requires a spotter, such as a Viking, Reaper or Xel'Naga Tower (or sacrificing Orbital Command energy for a Scanner Sweep). Placing Siege Tanks behind cliff ledges or a Wall-Off will obstruct an opponent's ground army from bum rushing into the Tanks more effectively. Also, to note floating Terran units act as both spots and a mobile Wall-Off that has been commonly used. Against high health units like the Colossus and Ultralisks the Liberator can be produced from a Reactor and has higher single target damage, making it easier to produce (Usually) 2 Starports late game; rather than the amount of Factories needed for the ground only Siege Tank. Making the Tank more of a early to mid game defence unit before mass Medivacs are produced. Against Zerg is when producing smaller units consistently, it seems Widow Mines and Liberators are produced in tandem (a Reactor-heavy match-up to begin with).",
+    "Vs. Protoss": "Gives strong defence and at 3 or more Siege Tanks can give a timing attack with Stimpack. Not common in late-game TvP due to their lack of mobility and friendly fire trait which makes terran bio army vulnerable against zealots.",
+    "Vs. Terran": "Siege Tanks remain the standard Vespene Gas dump unit for countering mass Marine armies, unless one Terran massed Hellions, from both sides. Breaking Sieged Tanks without using aircrafts is hardly imaginable. Once your opponent gains air superiority, tanks have to retreat or get slaughtered by Liberators or Ravens. A few tanks in lategame is common, in case your opponent suddenly transitions into marines and your army consists of only Vikings and Ravens.",
+    "Vs. Zerg": "Against Roaches and Ravagers, this unit shuts down Armored units once a suitable number has been reached. If a Roach Warren is finished, it is recommended to already have Cyclone, Banshee or Tank production ready before starting Medivacs. The limitation of Vespene Gas on two bases only constant Engineering Bay and Medivacs or Siege Tanks can be produced on this economy. Also a counter to Lurkers, but are vulnerable to Brood Lords."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Type": "Ground Unit",
+  "Description": "The High Templar (often abbreviated to HT) is a spell-casting unit for the Protoss. The High Templar is warped in from a Gateway, with the Templar Archives as a prerequisite. High Templar can cast Feedback to damage and drain the energy of enemy spellcasters. After an upgrade, High Templar can cast the devastating Psionic Storm spell, wreaking damage to all units in an area of effect. Finally, any two High Templar and/or Dark Templar can merge to form an Archon.",
+  "Built From": "Gateway",
+  "Requirements": "Templar Archives",
+  "Cost": {
+    "mineral": 50,
+    "vespene": 150,
+    "game_time": 39.0,
+    "supply": 2
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground",
+    "Damage": "4 (+1)",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "Not found",
+    "Bonus DPS": "Not found",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "40 40 0 (+1)",
+    "Attributes": "Biological, Light, Psionic",
+    "Sight": "10",
+    "Speed": "2.82",
+    "Cargo size": "2"
+  },
+  "Strong against": [
+    "Marine",
+    "Sentry",
+    "Hydralisk"
+  ],
+  "Weak against": [
+    "Ghost",
+    "Colossus",
+    "Roach"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": {
+    "Name": "Not found",
+    "Details": [
+      "200",
+      "200",
+      "79",
+      "Hotkey: T",
+      "Researched from: Templar Archives"
+    ],
+    "Description": "Gives High Templars the Psionic Storm ability."
+  },
+  "Competitive Usage": {
+    "Vs. Protoss": "The main use of the High Templar currently is solely to create Archons as Immortal Archon Chargelot is the primary army composition in the PvP matchup. Another use of HT is to support Stalkers when fighting Void Rays. Due to their nature, Void Rays tend to clump up, making the Psionic Storm very strong, even though it deals a relatively small amount of damage to the Void Ray. It takes four storms to completely destroy a Void Ray, but the proper use of High Templar is to support the Stalkers, so you should never fight with templars alone. With the extra damage from the Psionic Storm, the Stalkers can take down the air ships, something they normally can't per supply and cost. Although their main use is to create Archons, High Templars can also be used to Feedback Phoenixes and Oracles, thus being a good defensive unit as well as an offensive one.",
+    "Vs. Terran": "Because of the tendency for armies to clump together when moved en masse, large Marine/Marauder groups can be devastated with properly placed Psionic Storms. A Ghost's EMP can nullify a High Templar, leaving it vulnerable to be picked off by the opposing forces, though this can be counteracted by using the Feedback ability on the Ghost before EMP is cast. Feedback can also be useful on Medivacs to prevent them from healing Terran infantry units - this being especially effective when defending against impending drops when the Medivacs' energy level is the highest, possibly high enough to be lethal. In the current way the game is played, the effectiveness of High Templar in Protoss vs Terran is highly dependent on the Protoss player’s control. Even after the removal of the Khaydarin Amulet upgrade, Psionic Storm remains an invaluable weapon against Terran bio, and a necessary tech switch against Viking heavy compositions. Now that Protoss players can not warp in Storms at will, they are forced to keep High Templar in their standing army as well as protect and control them carefully. A number of techniques for using and controlling High Templar efficiently emerged. The first instinct of Protoss players was to have one High Templar step forward at a time to storm or feedback in hopes that the Terran player would waste an EMP on a single Templar or be hit by the Storm if he didn’t react quickly enough. Terran players proved too attentive to fall victim to the storm and used the Ghost’s Snipe ability or lone Marauders to pick off the Templar. NaNiwa took a different approach and separated his Templar from his main army until his Stalkers, Zealots, and Colossus had absorbed all the EMPs. He would bring his Templar to the front to Storm while his main army retreated after the Ghosts had exhausted all their energy. However, the best this method could hope for was an even trade. If the Ghosts had even a few EMPs left when the templars moved up, the Templar could be wiped out easily. The dominant methods of Templar control are the most difficult to pull off but also the most rewarding. Top players keep their Templar spread out at all times when not in battle, and try to keep them from clumping up as they engage. Many players store Templar in a Warp Prism and drop them in a line as the battle begins. The Templar are already spread out upon emerging from a moving warp prism and they are easier to position this way. However, the warp prism must be protected from Vikings at all costs.",
+    "Vs. Zerg": "High Templar is the most important source of splash damage against Zerg. Storm hits air and ground, as well as affecting all units with the same damage equally. This generalist source of area of effect damage is what makes High Templar stand above the rest. Compared to Colossus and Disruptor they fare better as they do not posses their clear weaknesses and they do not tie up production of another important unit in the Immortal. Do note that storm usually isn't meant to be a fatal blow to most units with the exception of Zerglings, Banelings and Drones. What storm is meant to do is weaken enemy units for the rest of your units to finish off. An example is Storm + Immortal vs Hydralisks where storm will lower Hydralisks to a low enough health to where the Immortals can clean up with 1 or 2 hits. Against Mutalisk play Storm can be used as an effective zoning tool, however High Templar are vulnerable to being sniped by Mutas. Factor in the speed of Mutas and they can escape storms fairly easily. To this extent units such as Archons, Phoenix and Stalkers fare much better. Feedback is only really useful versus Vipers and to an extent Overseers. Infestors are tricky since they are usually kept burrowed and the spell Fungal Growth can be used to catch High Templar attempting to feedback. Come late game storm support with a fully maxed out Skytoss fleet of Carriers,Mothership, Tempests or Voidrays with Archons is necessary to be able to stand toe to toe with a fully maxed out late game Zerg swarms. Storm plus Archons is an excellent zoning tool to prevent large Corruptor flocks from diving in and killing valuable capital ships, and with active Voidrays Corruptor swarms will be disintegrated in seconds."
+  }
+}

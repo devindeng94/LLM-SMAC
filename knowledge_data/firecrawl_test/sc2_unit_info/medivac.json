@@ -1,0 +1,39 @@
+{
+  "Type": "Air Unit",
+  "Description": "A dual-purpose Dropship and Medic (12.6 Health per second), the Medivac can be produced immediately from a Starport, possibly with a Reactor. It has the Ignite Afterburners ability natively, which increases the Medivac's movement speed to 5.94 (faster than a Mutalisk and equal to a Phoenix) for a quick escape or running past anti-air units and defence. An essential component of the popular unit composition of Marines and Marauders (sometimes including Hellbats), the Medivac heals damage from Stimpack usage fairly quickly but takes much longer to heal low-health units. Attacks should be quick and brief so as not to deplete the Medivac's energy too quickly. The Medivac can drop Marines and Marauders and then support them with healing to make the drop even more dangerous. It can also move (unsieged) Siege Tanks, Hellions and Thors allowing for many options for harassment, be it shelling a base from a cliff or dropping Hellions into a mineral line to deal large economic damage. Dropping from Medivacs is only advisable if you can retreat quickly. Vikings in Assault Mode can also be loaded into a Medivac, though this is rarely done. Medivac AI handles attack commands differently from a standard combat unit. When given an order to patrol, force-fire, or attack-move (by itself or in a group with other units), it will stop to heal any damaged infantry in its proximity. It will also stay close to any infantry actively attacking an enemy unit/building, regardless of whether those infantry need healing or not. Its Heal autocast skill is treated as its 'attack', and its preferred targets are infantry that are damaged or in combat. When all infantry are dead, or stop attacking the enemy, the Medivac will remember its last ordered position and move there. Give it a move command, or take Heal off of autocast, and the Medivac will go directly to any location ordered. On the other side, StarCraft II combat AI has assigned Medivacs the same priority for attack as any other \"standard\" unit, resulting in distance being the only factor for target selection. This may sometimes be beneficial as it diverts fire from your army, and sometimes detrimental, as in the case of drops, as hostile units may not switch to unloaded units until their first choice is either dead or out of range; your units may be left stranded if the Medivac is not micromanaged effectively. This does not apply when the dropped units are attacking back; if a Marine is engaging a Medivac and a hostile Marauder drops and starts attacking, the Marine will defend itself from the attacker, giving the Marauder higher priority, and saving the Medivac.",
+  "Built From": "Starport",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 100,
+    "vespene": 100,
+    "game_time": 30.0,
+    "supply": 2
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Not found",
+    "Damage": "Not found",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "Not found",
+    "Bonus DPS": "Not found",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "150 1 (+1)",
+    "Attributes": "Armored, Mechanical",
+    "Sight": "11",
+    "Speed": "3.5 (+0.63)5.95 with boost",
+    "Cargo size": "Not found"
+  },
+  "Strong against": [],
+  "Weak against": [],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "General": "Medivacs can be used tactically to get Tanks to places they wouldn't be able to reach otherwise. A good example of a map that benefits from heavy Medivac usage is Kulas Ravine, which features cliffs overlooking many important positions. Drops into the enemy base or against expansions, performed with prudent timing, combined with the Medivac's healing capability, can be extremely powerful in all match-ups.",
+    "Vs. Protoss": "Medivacs are brought with a Terran bio army to provide healing support. They are also frequently used to drop units in the Protoss base and snipe important infrastructure (Mining Probes, Pylons, Nexus, tech structures). They are also used in TvP for Hellion/Hellbat drops.",
+    "Vs. Terran": "Medivacs serve a similar role to the Dropship in BW, but their usage has decreased. Since most Terran armies now contain some anti-air protection such as Vikings or Thors, Medivacs are now much more likely to get sniped and can be hunted down easily, so they're not used to transport the slow-moving Tanks as often. When Marines are used to support Tanks, Medivacs are also a prudent addition.",
+    "Vs. Zerg": "Just as in TvP, Medivacs are usually combined with a Terran army in order to provide healing support for the Marines in the Marine-Widow Mine style that is popular in TvZ. Aside from that, they can also be used to drop units, typically Hellbats, in the opponent's base."
+  }
+}

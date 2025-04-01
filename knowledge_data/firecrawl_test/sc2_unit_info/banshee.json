@@ -1,0 +1,47 @@
+{
+  "Type": "Air Unit",
+  "Description": "The Banshee is a strong Air-to-Ground unit that is built from a Starport with a Tech Lab add-on. The Banshee has a number of common uses. Used early on in any match-up, they can catch an opponent off guard and allow for uninterrupted harassment, especially if Cloak has been researched. For this reason, hiding two Starports can be devastating for an opponent if left unscouted. When supported by Vikings, Banshees can be used to form a very powerful air army that can be very hard for Protoss to deal with.",
+  "Built From": "Starport with Tech Lab",
+  "Requirements": "Not found",
+  "Cost": {
+    "mineral": 150,
+    "vespene": 100,
+    "game_time": 43.0,
+    "supply": 3
+  },
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Ground",
+    "Damage": "12 (+1) (x2)",
+    "DPS": "Not found",
+    "Cooldown": "Not found",
+    "Bonus": "Not found",
+    "Bonus DPS": "Not found",
+    "Range": "Not found"
+  },
+  "Unit stats": {
+    "Defense": "140 0 (+1)",
+    "Attributes": "Light, Mechanical",
+    "Sight": "10",
+    "Speed": "3.85 (+1.4)",
+    "Cargo size": "Not found"
+  },
+  "Strong against": [
+    "Colossus",
+    "Ultralisk",
+    "Siege Tank"
+  ],
+  "Weak against": [
+    "Hydralisk",
+    "Phoenix",
+    "Viking"
+  ],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": {
+    "General": "A Banshee can fire off salvos of rockets rather quickly, and one shot from two of them will kill any worker in one hit. Thus, if built early, upgraded with Cloak, and properly microed to only fire at mineral gatherers, they can destroy an opponent's entire economy within seconds. This strategy is highly unlikely to work more than once, since the enemy will be very careful with his detectors and workers after such a devastating attack. Since Wings of Liberty, Banshees worked, when rushed, as a precursor to a 2-3 Siege Tank push or a faster-than-normal 3rd mining base, in match-ups when openings til mid-game did not include a Spire, Stargate or Starport in any fashion, many players would simply get Detection and ground-based anti-air; hence Siege Tanks being effective for the range advantage. Since the introduction of the Liberator in Legacy of the Void, amongst other economic changes, Banshees have declined in popularity, as the liberator is able to one-shot workers by itself, is 50 gas cheaper than a pair of banshees, and does not require an attached tech lab.",
+    "Vs. Protoss": "Against Protoss, Banshees can be a devastating attack force due to relatively weak anti-air capabilities of the Protoss Army. On the ground that a single Shield Battery recharges shield much faster than damage dealing of several banshees, a minimum number of 2 banshees is recommended to one-shot Probes. The Cloaking ability of the Banshee can lead to surprise attacks should the Protoss not have Observers accompanying their army, or any detection around their mineral lines.",
+    "Vs. Terran": "Banshees are a common opener in TvT, especially with Cloak, due to its ability to outmicro Marines and the potential to inflict significant damage to an opponents economy. However, they are vulnerable to Vikings, Missile Turrets and especially Cyclones combined with Ravens. Without either speed upgrades which is the common situation, banshees remain the same moving speed as cyclones', hence once targeted by Lock On banshees are unable to leave without the help of cliffs or other terrains. If you can gain air dominance, they can be used to snipe key units from the opponent's ground army, usually Siege Tanks, without much resistance. However, the main usage for Banshees remains harassment. Banshees do find a \"niche\" use for resource harassment in the mid-late game after researching hyperflight rotors. Still, they're far less common than Liberators. If the opponent neglected placing Missile Turrets in his base, a couple of Banshees can devastate vulnerable mineral lines and/or coerce him into sacrificing an Orbital Command's energy for Scanner Sweeps that could otherwise have been invested into MULEs.",
+    "Vs. Zerg": "Banshees can be somewhat effective in ZvT, although Spore Crawlers, Queens and Hydralisks* can buy enough time for Mutalisks to come out, at which point Banshees shouldn't be used because they lack any anti-air capabilities. A Banshee can defeat one Queen, and with Cloak this becomes a non-issue. Zerg players can use the semi-mobile Spore Crawler turret for both damage and detection, in combination with Queens, or upgrade to Lair have access to Overseer Detectors as well as the major Zerg anti-air unit, the Hydralisk. A successful Banshee rush can transition into an immediate end-game, or set the Terran player far ahead in the macro while his Zerg opponent recovers. Against early game Roach-based rushes banshees are quite essential since neither Roaches, Ravagers or Zerglings can target air units. However banshees are vulnerable to some Queen-dropping rushes. *Note: Hydralisks have 5 range (without the upgrade), while Banshees have 6 range - correct micro can mean that before the Hydralisk upgrade comes out Banshees can outrange them."
+  }
+}

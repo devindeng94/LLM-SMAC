@@ -1,0 +1,29 @@
+{
+  "Type": "Not found",
+  "Description": "The Spine Crawler is a Zerg static defense structure that deals 25 damage to ground units with a 5 point damage bonus to armored units. Although similar to the Sunken Colony, the Spine Crawler has the distinct ability to Uproot itself and Root in a new location, making it somewhat mobile and more flexible in use. The Spine Crawler can only attack with its Impaler Tentacle while rooted and is thus left defenseless while uprooted. If the Creep around the Spine Crawler is gone, the Spine Crawler will slowly lose hitpoints until Creep has been restored around it. Note that a Spine Crawler does not lose the hitpoints if it uproots, even when off Creep.",
+  "Built From": "Not found",
+  "Requirements": "Spawning Pool",
+  "Cost": "Cost information not found or in unexpected format",
+  "Hotkey": "Not found",
+  "Attack": {
+    "Targets": "Not found",
+    "Damage": "25",
+    "DPS": "18.9",
+    "Cooldown": "1.32",
+    "Bonus": "+5 vs Armored",
+    "Bonus DPS": "+3.8 vs Armored",
+    "Range": "7"
+  },
+  "Unit stats": {
+    "Defense": "300 2 Armored, Structure, Biological",
+    "Attributes": "Armored, Biological, Structure",
+    "Sight": "11",
+    "Speed": "1.4",
+    "Cargo size": "Not found"
+  },
+  "Strong against": [],
+  "Weak against": [],
+  "Ability": "No ability found",
+  "Upgrade": "No upgrade found",
+  "Competitive Usage": "Competitive Usage information not found"
+}
